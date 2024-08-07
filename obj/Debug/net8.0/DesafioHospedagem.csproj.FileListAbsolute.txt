@@ -1,0 +1,14 @@
+/home/lucas/Área de Trabalho/Net/DesafioHospedagem/bin/Debug/net8.0/DesafioHospedagem
+/home/lucas/Área de Trabalho/Net/DesafioHospedagem/bin/Debug/net8.0/DesafioHospedagem.deps.json
+/home/lucas/Área de Trabalho/Net/DesafioHospedagem/bin/Debug/net8.0/DesafioHospedagem.runtimeconfig.json
+/home/lucas/Área de Trabalho/Net/DesafioHospedagem/bin/Debug/net8.0/DesafioHospedagem.dll
+/home/lucas/Área de Trabalho/Net/DesafioHospedagem/bin/Debug/net8.0/DesafioHospedagem.pdb
+/home/lucas/Área de Trabalho/Net/DesafioHospedagem/obj/Debug/net8.0/DesafioHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Área de Trabalho/Net/DesafioHospedagem/obj/Debug/net8.0/DesafioHospedagem.AssemblyInfoInputs.cache
+/home/lucas/Área de Trabalho/Net/DesafioHospedagem/obj/Debug/net8.0/DesafioHospedagem.AssemblyInfo.cs
+/home/lucas/Área de Trabalho/Net/DesafioHospedagem/obj/Debug/net8.0/DesafioHospedagem.csproj.CoreCompileInputs.cache
+/home/lucas/Área de Trabalho/Net/DesafioHospedagem/obj/Debug/net8.0/DesafioHospedagem.dll
+/home/lucas/Área de Trabalho/Net/DesafioHospedagem/obj/Debug/net8.0/refint/DesafioHospedagem.dll
+/home/lucas/Área de Trabalho/Net/DesafioHospedagem/obj/Debug/net8.0/DesafioHospedagem.pdb
+/home/lucas/Área de Trabalho/Net/DesafioHospedagem/obj/Debug/net8.0/DesafioHospedagem.genruntimeconfig.cache
+/home/lucas/Área de Trabalho/Net/DesafioHospedagem/obj/Debug/net8.0/ref/DesafioHospedagem.dll
